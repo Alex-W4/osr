@@ -15,9 +15,9 @@
   branch=master
   commit=5d99aeb10674a41a82d7c78f850abfd9605bf6e1
 [cista]
-  url=git@github.com:felixguendling/cista.git
+  url=git@github.com:Alex-W4/cista.git
   branch=master
-  commit=777618a9a96a9bfbf44edc64686c0c17eb1afd05
+  commit=dc94e71c6e89526de2c7f3f5d590e5af3291882d
 [googletest]
   url=git@github.com:motis-project/googletest.git
   branch=master
